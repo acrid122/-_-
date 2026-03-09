@@ -333,6 +333,6 @@ print(list(map(int, lst)))
 
 names = ['Alice', 'Bob']
 scores = [90, 85]
-address = ['Moscow', 'Ufa']
+address = ['Moscow', 'Ufa', 'Omsk']
 
 print(list(zip(scores, names, address)))
